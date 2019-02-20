@@ -1,9 +1,13 @@
 # mlf-unity
 The Multi Language Format interpretor for Unity3D
 
+Note: This addon requires [Odin Inspector](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)
+
 ### About MLF
 
-MLF is currently utilized in-house by Spellcast Studios in Unity3D for a variety of uses, such as scripting, quests and dialog. Since the key feature of MLF is simply to be a human readable wrapper for other languages, it allows different formats to be in the same file, with different tags and id's for the engine to read.
+MLF is a simple format that allows multiple human readable languages to be present in the same file. This interpretor for Unity3D imports these files, and makes them actually usable in engine.
+
+MLF is currently utilized in-house by Spellcast Studios in Unity3D for a variety of uses, such as scripting, quests and dialog. 
 
 ### Supported Languages
 
